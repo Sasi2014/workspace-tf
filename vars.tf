@@ -1,2 +1,2 @@
-var.prefix=dev
-var.loc=south india
+var.prefix="dev"
+var.loc="south india"
